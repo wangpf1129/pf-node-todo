@@ -1,0 +1,23 @@
+{
+  "name": "pf-node-todo",
+  "bin": {
+    "todo": "cli.js"
+  },
+  "files":[
+    "*.js","README.md"
+  ],
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "3.0.2",
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
