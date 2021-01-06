@@ -23,6 +23,11 @@ todo --version
 2. todo add <taskName> 添加一个任务
 3. todo clear 清空所有任务
 
+### 单元测试 -> 函数
+用来测试 读文件 和  写文件
+```bash
+yarn test 
+```
 ### 项目效果演示
 
 **查看版本号：**

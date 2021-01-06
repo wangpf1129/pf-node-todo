@@ -3,8 +3,9 @@
   "bin": {
     "todo": "cli.js"
   },
-  "files":[
-    "*.js","README.md"
+  "files": [
+    "*.js",
+    "README.md"
   ],
   "version": "1.0.2",
   "description": "",
@@ -13,9 +14,11 @@
     "commander": "3.0.2",
     "inquirer": "^7.3.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
