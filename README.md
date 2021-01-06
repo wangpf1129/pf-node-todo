@@ -27,6 +27,8 @@ todo --version
 用来测试 读文件 和  写文件
 ```bash
 yarn test 
+// 或者
+npm run test
 ```
 ### 项目效果演示
 
